@@ -4,223 +4,315 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Erdo",
-      "publisher": "Erdogan Bey",
-      "tray_image_file": "tray_Cuppy.png",
+      "name": "Atatürk",
+      "publisher": "Erdogan",
+      "tray_image_file": "atatürkicon.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
+          "image_file": "01_atatürk1.webp",
           "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
+          "image_file": "02_atatürk2.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "04_Cuppy_sad.webp",
+          "image_file": "4atatürk4.webp",
           "emojis": ["😩","😰"]
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
+          "image_file": "5atatürk5.webp",
           "emojis": ["😭","💧"]
         },
         {
-          "image_file": "06_Cuppy_love.webp",
+          "image_file": "06_atatürk6.webp",
           "emojis": ["😍","♥"]
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
+          "image_file": "07_atatürk7.webp",
           "emojis": ["💔","👎"]
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
+          "image_file": "08_atatürk8.webp",
           "emojis": ["😍","💑"]
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
+          "image_file": "09_atatürk9.webp",
           "emojis": ["😘","🍪"]
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
+          "image_file": "10atatürkoriginal10.webp",
           "emojis": ["🤔","😐"]
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
+          "image_file": "11atatürk111.webp",
           "emojis": ["😱","😵"]
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
+          "image_file": "12atatürk122.webp",
           "emojis": ["😡","😠"]
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
+          "image_file": "13_atatürk13.webp",
           "emojis": ["❓","🤔"]
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
-        },
-        {
-          "image_file": "15_Cuppy_bluescreen.webp",
+          "image_file": "15atatürk155.webp",
           "emojis": ["💻","😩"]
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
+          "image_file": "16_atatürk16.webp",
           "emojis": ["😡","😤"]
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18_Cuppy_workhard.webp",
+          "image_file": "18_atatürk18.webp",
           "emojis": ["💻","🌃"]
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
+          "image_file": "19_atatürk19.webp",
           "emojis": ["🎉","✨"]
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
+          "image_file": "20_atatürk20.webp",
           "emojis": ["🤮","👎"]
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
-        },
-        {
-          "image_file": "22_Cuppy_bye.webp",
+          "image_file": "22_atatürk22.webp",
           "emojis": ["🖐","👋"]
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
+          "image_file": "23_atatürk23.webp",
           "emojis": ["🍵","😌"]
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
+          "image_file": "24_atatürk24.webp",
           "emojis": ["📱","😦"]
-        },
-        {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
         }
       ]
     },{
       "identifier": "2",
-      "name": "Erdo 2 ",
-      "publisher": "Erdogan Bey 2 ",
-      "tray_image_file": "tray_Cuppy.png",
+      "name": "Ülke Bayrakları",
+      "publisher": "Erdogan",
+      "tray_image_file": "all-flags-original.png",
       "publisher_email":"",
       "publisher_website": "https://abacim.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "penis.webp",
+          "image_file": "turkey.webp",
           "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "mypenis.webp",
+          "image_file": "australia.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "mycanlipenis.webp",
+          "image_file": "belgium.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
+          "image_file": "brazil.webp",
           "emojis": ["😩","😰"]
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
+          "image_file": "canada.webp",
           "emojis": ["😭","💧"]
         },
         {
-          "image_file": "06_Cuppy_love.webp",
+          "image_file": "china.webp",
           "emojis": ["😍","♥"]
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
+          "image_file": "england.webp",
           "emojis": ["💔","👎"]
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
+          "image_file": "finland.webp",
           "emojis": ["😍","💑"]
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
+          "image_file": "france.webp",
           "emojis": ["😘","🍪"]
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
+          "image_file": "georgia.webp",
           "emojis": ["🤔","😐"]
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
+          "image_file": "germany.webp",
           "emojis": ["😱","😵"]
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
+          "image_file": "india.webp",
           "emojis": ["😡","😠"]
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
+          "image_file": "italy.webp",
           "emojis": ["❓","🤔"]
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
+          "image_file": "japan.webp",
           "emojis": ["🌈","😜"]
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
+          "image_file": "mexico.webp",
           "emojis": ["💻","😩"]
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
+          "image_file": "netherlands.webp",
           "emojis": ["😡","😤"]
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
+          "image_file": "norway.webp",
           "emojis": ["😩","😨"]
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
+          "image_file": "poland.webp",
           "emojis": ["💻","🌃"]
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
+          "image_file": "portugal.webp",
           "emojis": ["🎉","✨"]
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
+          "image_file": "russia.webp",
           "emojis": ["🤮","👎"]
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
+          "image_file": "singapore.webp",
           "emojis": ["🖐","🙋"]
         },
         {
-          "image_file": "22_Cuppy_bye.webp",
+          "image_file": "south-korea.webp",
           "emojis": ["🖐","👋"]
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
+          "image_file": "spain.webp",
           "emojis": ["🍵","😌"]
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
+          "image_file": "sweden.webp",
           "emojis": ["📱","😦"]
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
+          "image_file": "switzerland.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "thailand.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "argentina.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "ukraine.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "united-kingdom.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "united-states.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "3",
+      "name": "Türkiyem",
+      "publisher": "Erdogan",
+      "tray_image_file": "turkishtrans.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "türkiye1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "turkeycikartma.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "worldturkey1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "dalgalanturkiye1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "turkiyeatatürk1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "turkeybutton1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "azeriturkey.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "4",
+      "name": "Siyaset",
+      "publisher": "Erdogan",
+      "tray_image_file": "tüm_partiler.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_aklogo1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "02_arınc1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "03_bahcelidur1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "04_bahceligülücük1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "05_chplogo1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "06_bahceliparmak1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "07_kemalhayrına1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "08_kemalkılıc1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "09_kemalkılıcselam1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10_kemalveatatürk1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11_mhplogo1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "12_tayyiphaykırma1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13_tayyip1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14_tayyipselam1.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15_tayyipsmile1.webp",
           "emojis": ["🔋","😵"]
         }
       ]
