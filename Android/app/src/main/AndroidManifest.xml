@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.stickers">
+    package="com.erdo.stickers">
 
     <application
         android:allowBackup="false"
         android:fullBackupContent="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:name="com.example.stickers.StickerApplication"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:name="com.erdo.stickers.StickerApplication"
+        android:roundIcon="@mipmap/red_whatsup"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="com.example.stickers.EntryActivity">
+        <activity android:name="com.erdo.stickers.EntryActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.stickers.StickerPackListActivity"
+            android:name="com.erdo.stickers.StickerPackListActivity"
             android:label="@string/title_activity_sticker_packs_list" />
         <activity
-            android:name="com.example.stickers.StickerPackDetailsActivity"
-            android:parentActivityName="com.example.stickers.StickerPackListActivity"
+            android:name="com.erdo.stickers.StickerPackDetailsActivity"
+            android:parentActivityName="com.erdo.stickers.StickerPackListActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.stickers.StickerPackListActivity" />
+                android:value="com.erdo.stickers.StickerPackListActivity" />
         </activity>
         <activity
-            android:name="com.example.stickers.StickerPackInfoActivity"
+            android:name="com.erdo.stickers.StickerPackInfoActivity"
             android:label="@string/title_activity_sticker_pack_info"
-            android:parentActivityName="com.example.stickers.StickerPackDetailsActivity"
+            android:parentActivityName="com.erdo.stickers.StickerPackDetailsActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.stickers.StickerPackDetailsActivity" />
+                android:value="com.erdo.stickers.StickerPackDetailsActivity" />
         </activity>
 
         <provider
-            android:name="com.example.stickers.StickerContentProvider"
+            android:name="com.erdo.stickers.StickerContentProvider"
             android:authorities="${contentProviderAuthority}"
             android:enabled="true"
             android:exported="true"

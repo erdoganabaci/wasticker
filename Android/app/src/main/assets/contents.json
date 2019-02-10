@@ -316,6 +316,684 @@
           "emojis": ["🔋","😵"]
         }
       ]
+    },{
+      "identifier": "5",
+      "name": "Aşk ve Kalp",
+      "publisher": "Erdogan",
+      "tray_image_file": "1kalp_icon.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1kalp1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2kalp2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3kalp3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4kalp4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "5kalp5.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "6kalp6.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7kalp7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8kalp8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9kalp9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10kalp10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11kalp11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "12kalp12.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13kalp13.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15kalp15.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "6",
+      "name": "Emojiler",
+      "publisher": "Erdogan",
+      "tray_image_file": "emoji_logo.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1emoji1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2emoji2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3emoji3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4emoji4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "5emoji5.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "6emoji6.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7emoji7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8emoji8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9emoji9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10emoji10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11emoji11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13emoji13.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14emoji14.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15emoji15.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "16emoji16.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "17emoji17.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "18emoji18.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "19emoji19.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "20emoji20.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "21emoji21.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "22emoji22.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "23emoji23.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "24emoji24.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "25emoji25.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "26emoji26.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "27emoji27.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "28emoji28.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "29emoji29.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "30emoji30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "7",
+      "name": "İslam ve Dinler",
+      "publisher": "Erdogan",
+      "tray_image_file": "islam_logo.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1islam1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2islam2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3islam3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4islam4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "5islam5.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "6islam6.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7islam7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8islam8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9islam9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10islam10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11islam11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "12islam12.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13islam13.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14islam14.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15islam15.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "8",
+      "name": "Troller",
+      "publisher": "Erdogan",
+      "tray_image_file": "memes_logo.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1memes1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2memes2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3memes3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4memes4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "5memes5.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7memes7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8memes8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9memes9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10memes10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11memes11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "12memes12.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14memes14.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15memes15.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "9",
+      "name": "Türk Takımları",
+      "publisher": "Erdogan",
+      "tray_image_file": "takımlar_logo.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1takım1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2takım2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3takım3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4takım4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "5takım5.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "6takım6.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7takım7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8takım8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9takım9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10takım10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11takım11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "12takım12.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13takım13.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14takım14.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15takım15.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "16takım16.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "17takım17.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "18takım18.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "10",
+      "name": "Yabancı Takımlar",
+      "publisher": "Erdogan",
+      "tray_image_file": "yabancı_logo.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1yabancı1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2yabancı2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3yabancı3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4yabancı4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "5yabancı5.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "6yabancı6.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7yabancı7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8yabancı8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9yabancı9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10yabancı10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11yabancı11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "12yabancı12.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13yabancı13.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14yabancı14.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "11",
+      "name": "Sporlar",
+      "publisher": "Erdogan",
+      "tray_image_file": "spor_logo.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1spor1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2spor2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3spor3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4spor4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "6spor6.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7spor7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8spor8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9spor9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10spor10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11spor11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "12spor12.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13spor13.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14spor14.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15spor15.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "16spor16.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "17spor17.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "18spor18.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "19spor19.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "20spor20.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "12",
+      "name": "Süper Kahramanlar",
+      "publisher": "Erdogan",
+      "tray_image_file": "süper_logo.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1süper1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2süper2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3süper3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4süper4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "5süper5.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "6süper6.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7süper7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8süper8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9süper9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10süper10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11süper11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13süper13.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14süper14.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15süper15.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "16süper16.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "17süper17.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "18süper18.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "19süper19.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "20süper20.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "21süper21.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "22süper22.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "23süper23.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "13",
+      "name": "Araba Markaları",
+      "publisher": "Erdogan",
+      "tray_image_file": "car_logo.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1car1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2car2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3car3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4car4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "5car5.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "6car6.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7car7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8car8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9car9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10car10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11car11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "12car12.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13car13.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14car14.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15car15.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "16car16.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "17car17.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "18car18.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "20car20.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "21car21.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "22car22.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "23car23.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "24car24.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "25car25.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "26car26.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "27car27.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "28car28.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "14",
+      "name": "Taşıtlar",
+      "publisher": "Erdogan",
+      "tray_image_file": "tasıt_logo.png",
+      "publisher_email":"",
+      "publisher_website": "https://abacim.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1tasıt1.webp",
+          "emojis": ["☕","🙂"]
+        },{
+          "image_file": "2tasıt2.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "3tasıt3.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "4tasıt4.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "5tasıt5.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "7tasıt7.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "8tasıt8.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "9tasıt9.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "10tasıt10.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "11tasıt11.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "12tasıt12.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "13tasıt13.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "14tasıt14.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "15tasıt15.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "16tasıt16.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
     }
   ]
 }
