@@ -7,8 +7,8 @@ android {
     }
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.stickers"
-        minSdkVersion 23
+        applicationId "com.wastickerturkey.stickers"
+        minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -94,4 +94,5 @@ dependencies {
     implementation 'com.facebook.fresco:fresco:1.12.0'
     implementation 'com.facebook.fresco:webpsupport:1.12.0'
     implementation 'com.facebook.fresco:animated-webp:1.12.0'
+    implementation 'com.google.android.gms:play-services-ads:17.1.1'
 }

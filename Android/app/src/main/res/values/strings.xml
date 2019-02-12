@@ -40,4 +40,10 @@
     <string name="add_pack_fail_prompt_update_play_link">Update</string>
     <!-- Toast text when we could not take user to play store because they don't have Google Play app installed -->
     <string name="cannot_find_play_store">Google Play is not installed on the device.</string>
+    <string name="admob_id">ca-app-pub-7272935458043060~7978308976</string>
+    <!--test olan ca-app-pub-3940256099942544~3347511713  burdaki idler test için üsttekiler orjinal erdoganabaci150315025@gmail.com burdaki hesaba bağlı-->
+    <string name="banner_id">ca-app-pub-7272935458043060/1841820623</string>
+    <!--banner id test ca-app-pub-3940256099942544/6300978111-->
+    <string name="interstatial_id">ca-app-pub-7272935458043060/2891888851</string>
+    <!--interstatial id  test ca-app-pub-3940256099942544/1033173712-->
 </resources>

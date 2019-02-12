@@ -1,47 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.erdo.stickers">
+    package="com.wastickerturkey.stickers">
 
     <application
         android:allowBackup="false"
         android:fullBackupContent="false"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/white_redwhatsappreal"
         android:label="@string/app_name"
-        android:name="com.erdo.stickers.StickerApplication"
-        android:roundIcon="@mipmap/red_whatsup"
+        android:name="com.wastickerturkey.stickers.StickerApplication"
+        android:roundIcon="@mipmap/white_redwhatsappreal"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="com.erdo.stickers.EntryActivity">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_id"/>
+        <activity android:name="com.wastickerturkey.stickers.EntryActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name="com.erdo.stickers.StickerPackListActivity"
+            android:name="com.wastickerturkey.stickers.StickerPackListActivity"
             android:label="@string/title_activity_sticker_packs_list" />
         <activity
-            android:name="com.erdo.stickers.StickerPackDetailsActivity"
-            android:parentActivityName="com.erdo.stickers.StickerPackListActivity"
+            android:name="com.wastickerturkey.stickers.StickerPackDetailsActivity"
+            android:parentActivityName="com.wastickerturkey.stickers.StickerPackListActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.erdo.stickers.StickerPackListActivity" />
+                android:value="com.wastickerturkey.stickers.StickerPackListActivity" />
         </activity>
         <activity
-            android:name="com.erdo.stickers.StickerPackInfoActivity"
+            android:name="com.wastickerturkey.stickers.StickerPackInfoActivity"
             android:label="@string/title_activity_sticker_pack_info"
-            android:parentActivityName="com.erdo.stickers.StickerPackDetailsActivity"
+            android:parentActivityName="com.wastickerturkey.stickers.StickerPackDetailsActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.erdo.stickers.StickerPackDetailsActivity" />
+                android:value="com.wastickerturkey.stickers.StickerPackDetailsActivity" />
         </activity>
 
         <provider
-            android:name="com.erdo.stickers.StickerContentProvider"
+            android:name="com.wastickerturkey.stickers.StickerContentProvider"
             android:authorities="${contentProviderAuthority}"
             android:enabled="true"
             android:exported="true"
